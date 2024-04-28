@@ -12,8 +12,8 @@ in assets we have out export
 <br>
 2- open git bash in downloaded folder
 <br>
-3- run npm init
-<br>
 4- run npm install
 <br>
 5- run npm update
+<br>
+6- run npm run build
