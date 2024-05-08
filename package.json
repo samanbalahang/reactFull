@@ -86,6 +86,8 @@
     "pkg-dir": "^4.2.0",
     "punycode": "^2.3.0",
     "randombytes": "^2.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "rechoir": "^0.8.0",
     "resolve": "^1.22.1",
     "resolve-cwd": "^3.0.0",
